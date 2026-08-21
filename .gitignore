@@ -10,4 +10,6 @@ sa-key.json
 .venv/
 __pycache__/
 *.pyc
+*.pem
 .DS_Store
+
